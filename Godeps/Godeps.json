@@ -1,0 +1,28 @@
+{
+	"ImportPath": "socket.io",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.1-62-g8d75e11",
+			"Rev": "8d75e11374a1928608c906fe745b538483e7aeb2"
+		},
+		{
+			"ImportPath": "github.com/googollee/go-engine.io",
+			"Rev": "a66cf68b24e56df0cacdc6041b93742f983a296a"
+		},
+		{
+			"ImportPath": "github.com/googollee/go-socket.io",
+			"Comment": "0.9.x-38-gfaf0400",
+			"Rev": "faf0400ebdba61d3da7f9d771c52c89f13b6a50f"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Rev": "527637c0f38a8035d7856bb758e56f7ee2c704a9"
+		},
+		{
+			"ImportPath": "github.com/unrolled/render",
+			"Rev": "d7c3df429697d42cc63332fa9ab88fef7a0fa6f7"
+		}
+	]
+}
